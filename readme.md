@@ -1,6 +1,6 @@
 <h1 align="center" id="title">startup-landing-page</h1>
 
-<p align="center"><img src="https://socialify.git.ci/Spawn9986/startup-landing-page/image?language=1&amp;name=1&amp;owner=1&amp;theme=Light" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/Spawn9986/startup-landing-page/image?language=1&amp;name=1&amp;owner=1&amp;theme=Auto" alt="project-image"></p>
 
 <!-- font=Inter&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Plus&amp;theme=Light" alt="project-image"></p> -->
 
